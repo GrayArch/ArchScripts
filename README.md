@@ -1,4 +1,4 @@
-```java
+```tailwind
 This Script will fix Your Wifi if it is not working
 after The base Arch instalation
 ```
